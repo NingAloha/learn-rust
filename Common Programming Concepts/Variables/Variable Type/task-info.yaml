@@ -15,12 +15,15 @@ files:
           offset: 21
         initialized_from_dependency: false
         encrypted_possible_answer: c7PuLZhDhQrD0om4JOPwxw==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/tests.rs
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Variable+Type
 status: Solved
+feedback:
+  message: 恭喜!
+  time: "Tue, 20 Oct 2026 07:49:46 UTC"
 record: -1

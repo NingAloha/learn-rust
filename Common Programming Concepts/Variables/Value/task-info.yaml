@@ -16,7 +16,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: q38dtQFc7zJNQoKZOoMf9g==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/tests.rs
     visible: false
