@@ -24,5 +24,11 @@ Progress is recorded in the [commit history](../../commits/main). This section i
 
 ---
 
+## Attribution and License
+
+This repository is my personal learning workspace based on the [JetBrains Academy Learn Rust course](https://github.com/jetbrains-academy/rustlings-course), which is distributed under the MIT License. The original course materials and their copyright remain with their respective authors. My exercise solutions and progress are recorded here for educational purposes.
+
+The original copyright notice and license terms are preserved in [LICENSE](LICENSE). This personal learning repository is not an official JetBrains project.
+
 ## Credits
 The materials are based on the original course [rustlings](https://github.com/rust-lang/rustlings) created by [Carol Nichols](https://github.com/carols10cents)! The course is provided with the materials from [The Rust Programming Language](https://doc.rust-lang.org/book/index.html) book, written by Steve Klabnik and Carol Nichols, with contributions from the Rust Community.
