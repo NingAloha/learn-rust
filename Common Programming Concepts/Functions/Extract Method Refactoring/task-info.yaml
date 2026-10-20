@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 215
+        length: 216
         placeholder_text: |-
           fn main() {
               let year1993 = 1993;
@@ -32,5 +32,5 @@ files:
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Extract+Method+Refactoring
 status: Solved
 feedback:
-  time: "Tue, 20 Oct 2026 08:21:45 UTC"
+  time: "Tue, 20 Oct 2026 08:23:51 UTC"
 record: -1

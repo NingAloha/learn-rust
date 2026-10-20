@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 40
-        length: 65
+        length: 57
         placeholder_text: '!(!(number > 4 && number <= 9) && !(number > 10  && number
       < 20))'
         initial_state:
@@ -13,8 +13,8 @@ files:
           offset: 40
         initialized_from_dependency: false
         encrypted_possible_answer: I+s1wUO/Of83cJQ3ApN1tLSbikORK4aalhreJnmflXWOv8J/IXn0iJcvDyWJarbbivBsJjwbhjP54MWVQjTI0rzPzQo/nEa3RuCJnYyYDfE=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: Cargo.toml
     visible: false
@@ -28,5 +28,7 @@ files:
     is_binary: true
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Managing+Conditions
-status: Unchecked
+status: Solved
+feedback:
+  time: "Tue, 20 Oct 2026 08:32:20 UTC"
 record: -1
