@@ -1,0 +1,38 @@
+type: output
+custom_name: "Task: Implement Match"
+files:
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+  - name: src/main.rs
+    visible: true
+    placeholders:
+      - offset: 36
+        length: 71
+        placeholder_text: "// TODO: implement the message variant types based on their\
+      \ usage below"
+        initial_state:
+          length: 71
+          offset: 36
+        initialized_from_dependency: false
+        encrypted_possible_answer: c6Vk1JXMt5ntv25FCUfuwb5LsoBr85IPvg0lF6lYGMvXT+YCCWnogj26BIdOlFzlkleMsZve26Sf0xatLnjuTK312Kfmjg6X+XdiS5hKgiI=
+        selected: false
+        status: Unchecked
+      - offset: 606
+        length: 76
+        placeholder_text: "// TODO: create a match expression to process the different\
+      \ message variants"
+        initial_state:
+          length: 76
+          offset: 606
+        initialized_from_dependency: false
+        encrypted_possible_answer: ue/SaclVyL5foPnwVyNkQxBONPVV1UjnT7i4LTNMElhqgC4kQKeezk1KCyCU5cPEjwAM54eF9w2D2dMKJhRum92OENdBRXmntS65TVp1r9Sbm4F0s21yEeQRfO6X0R/YEQfHcGRxbqngfy/ZbxJStpF/0VtjTkq+tdf1ApNbgR75SCSqoKuOMwrqJA8ik2oitmyyIsZl4rOnZc1ac3HF6HQJwAwS5f780O1J7wYclHT82qtiyopqaDtZcvQ4a7uVmeKbO1/D0AYKhMCiKB13MhMB5e1fi01TVWZFLV/K0IScVdxp/PpyxBEqTdhHE7gMKe804HpYuSBjPI9ZAhFsoQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/output.txt
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Pattern+Matching+/+Implement+Match
+status: Unchecked
+record: -1
