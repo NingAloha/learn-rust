@@ -10,5 +10,19 @@ Greetings and welcome to `Learn Rust`.
 This project contains small exercises to get you used to reading and writing Rust code.
 This includes reading and responding to compiler messages!
 
+## My Learning Progress
+
+I'm learning Rust through the JetBrains Academy **Learn Rust** course, practicing each concept with small exercises and tracking my work through Git commits.
+
+### Progress
+
+- [x] Functions — declarations, parameters, return values, and refactoring
+- [x] Conditions — `if` expressions, `else if`, and logical operators
+- [ ] Remaining topics — continuing through the course
+
+Progress is recorded in the [commit history](../../commits/main). This section is a snapshot, not an automatically updated checklist.
+
+---
+
 ## Credits
 The materials are based on the original course [rustlings](https://github.com/rust-lang/rustlings) created by [Carol Nichols](https://github.com/carols10cents)! The course is provided with the materials from [The Rust Programming Language](https://doc.rust-lang.org/book/index.html) book, written by Steve Klabnik and Carol Nichols, with contributions from the Rust Community.
