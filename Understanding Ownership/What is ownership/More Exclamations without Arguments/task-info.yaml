@@ -5,27 +5,27 @@ files:
     visible: true
     placeholders:
       - offset: 17
-        length: 34
+        length: 0
         placeholder_text: let hello = String::from("Hello");
         initial_state:
           length: 34
           offset: 17
         initialized_from_dependency: false
         encrypted_possible_answer: SQy+vsKOmbkN+CoOBweHBbc3hK2q91dYSSKfiq3ptIQ=
-        selected: false
-        status: Unchecked
-      - offset: 97
-        length: 5
+        selected: true
+        status: Solved
+      - offset: 63
+        length: 0
         placeholder_text: hello
         initial_state:
           length: 5
           offset: 97
         initialized_from_dependency: false
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
-        selected: false
-        status: Unchecked
-      - offset: 255
-        length: 9
+        selected: true
+        status: Solved
+      - offset: 216
+        length: 0
         placeholder_text: "s: String"
         initial_state:
           length: 9
@@ -33,8 +33,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
         selected: false
-        status: Unchecked
-      - offset: 282
+        status: Solved
+      - offset: 234
         length: 36
         placeholder_text: /* Create the "Hello" string here */
         initial_state:
@@ -42,8 +42,8 @@ files:
           offset: 282
         initialized_from_dependency: false
         encrypted_possible_answer: 3KlpHielozCzXYz7Mc5Y1XNx0Nl2Um2fwvqgN1Ye19SggiBCdlz3qw+7R4bhvYe6
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: Cargo.toml
     visible: false
@@ -52,5 +52,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations+without+Arguments
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Fri, 23 Oct 2026 02:04:30 UTC"
 record: -1

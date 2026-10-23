@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 172
-        length: 0
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -16,8 +16,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 206
+        status: Solved
+      - offset: 208
         length: 0
         placeholder_text: ""
         initial_state:
@@ -26,9 +26,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
         selected: false
-        status: Unchecked
-      - offset: 242
-        length: 0
+        status: Solved
+      - offset: 244
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -36,9 +36,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 276
-        length: 0
+        status: Solved
+      - offset: 280
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -46,8 +46,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 386
+        status: Solved
+      - offset: 392
         length: 0
         placeholder_text: ""
         initial_state:
@@ -56,9 +56,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
         selected: false
-        status: Unchecked
-      - offset: 420
-        length: 0
+        status: Solved
+      - offset: 426
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -66,9 +66,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 456
-        length: 0
+        status: Solved
+      - offset: 464
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -76,9 +76,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 490
-        length: 0
+        status: Solved
+      - offset: 500
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -86,9 +86,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 619
-        length: 0
+        status: Solved
+      - offset: 631
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -96,8 +96,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 653
+        status: Solved
+      - offset: 667
         length: 0
         placeholder_text: ""
         initial_state:
@@ -106,9 +106,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
         selected: false
-        status: Unchecked
-      - offset: 689
-        length: 0
+        status: Solved
+      - offset: 703
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -116,9 +116,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
-      - offset: 723
-        length: 0
+        status: Solved
+      - offset: 739
+        length: 2
         placeholder_text: ""
         initial_state:
           length: 0
@@ -126,11 +126,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: Cargo.toml
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Who+Owns+the+One+Ring
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Fri, 23 Oct 2026 01:35:55 UTC"
 record: -1
