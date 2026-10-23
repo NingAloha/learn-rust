@@ -5,25 +5,25 @@ files:
     visible: true
     placeholders:
       - offset: 89
-        length: 8
+        length: 13
         placeholder_text: /*TODO*/
         initial_state:
           length: 8
           offset: 89
         initialized_from_dependency: false
         encrypted_possible_answer: 1NKotBbBFUIQwKsGIJUG0w==
-        selected: false
-        status: Unchecked
-      - offset: 244
-        length: 8
+        selected: true
+        status: Solved
+      - offset: 249
+        length: 6
         placeholder_text: /*TODO*/
         initial_state:
           length: 8
           offset: 244
         initialized_from_dependency: false
         encrypted_possible_answer: 6KEjz3s0ArZNAyZ0jsJtWg==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: Cargo.toml
     visible: false
@@ -32,5 +32,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Exclamations+Strike+Back
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Fri, 23 Oct 2026 02:19:28 UTC"
 record: -1
