@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 63
-        length: 39
+        length: 9
         placeholder_text: //type the invocation of the slice here
         initial_state:
           length: 39
@@ -16,11 +16,11 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: v4qK1VLqNIpP47xlkBWKbA==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/tests.rs
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Nice+Slice
-status: Unchecked
+status: Solved
 record: -1
