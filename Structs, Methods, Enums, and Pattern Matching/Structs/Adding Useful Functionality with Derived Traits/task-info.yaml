@@ -12,22 +12,22 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: cb+uE+5fhbFqKKQk39C4xMJNfWhZ0d786RE981xfN8I=
         selected: false
-        status: Unchecked
+        status: Solved
       - offset: 182
-        length: 4
+        length: 5
         placeholder_text: "{:?}"
         initial_state:
           length: 4
           offset: 182
         initialized_from_dependency: false
         encrypted_possible_answer: Y/ZXIVfBHvzqIgUZjECRbQ==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: Cargo.toml
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Adding+Useful+Functionality+with+Derived+Traits
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true

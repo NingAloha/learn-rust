@@ -8,17 +8,17 @@ files:
     visible: true
     placeholders:
       - offset: 359
-        length: 34
+        length: 106
         placeholder_text: /* Instantiate the package here */
         initial_state:
           length: 34
           offset: 359
         initialized_from_dependency: false
         encrypted_possible_answer: vu6KTnC1kVTeP9F+CxU+EbNkd90jNFS5HC0735awZxgjVJxM896L6IM/AsQz6odaEZJXbKWtkTRaPF4FfcMKMs/Ptacsjr1tbQKPPdudtiIGWXVwcDx9pi2nhAmxB6Q8jA2LlGgTexcBEXJzj40SOg==
-        selected: false
-        status: Unchecked
-      - offset: 435
-        length: 21
+        selected: true
+        status: Solved
+      - offset: 507
+        length: 4
         placeholder_text: /* Add return type */
         initial_state:
           length: 21
@@ -26,19 +26,19 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: qd8iNVaTHmU++TLXX++3rg==
         selected: false
-        status: Unchecked
-      - offset: 467
-        length: 25
+        status: Solved
+      - offset: 522
+        length: 45
         placeholder_text: /* Something goes here */
         initial_state:
           length: 25
           offset: 467
         initialized_from_dependency: false
         encrypted_possible_answer: 69E4CvLJbJrve7cjQJWYDmO4zYnUhXPJrszs3moS3FmECvIqhwyIEtqwV4yZgfRL
-        selected: false
-        status: Unchecked
-      - offset: 547
-        length: 21
+        selected: true
+        status: Solved
+      - offset: 622
+        length: 3
         placeholder_text: /* Add return type */
         initial_state:
           length: 21
@@ -46,9 +46,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 2NBORuR2M9+V9dBBUHx7yg==
         selected: false
-        status: Unchecked
-      - offset: 579
-        length: 25
+        status: Solved
+      - offset: 636
+        length: 37
         placeholder_text: /* Something goes here */
         initial_state:
           length: 25
@@ -56,11 +56,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: AfQIEtTPB0ncxcWMQeQb2/TsR7YfZPFoljLMCNpYGQUZ83o6g8YDJP56say4EkMw
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/output.txt
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+with+Methods+/+Sending+Packages
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sun, 25 Oct 2026 05:22:52 UTC"
 record: -1

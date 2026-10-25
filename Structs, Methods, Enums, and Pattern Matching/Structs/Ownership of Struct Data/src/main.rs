@@ -1,6 +1,6 @@
 struct User {
-    username: &str, // !!! ERROR
-    email: &str,   // !!! ERROR
+    username: String, // !!! ERROR
+    email: String,   // !!! ERROR
     sign_in_count: u64,
     active: bool,
 }
