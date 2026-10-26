@@ -16,11 +16,14 @@ I'm learning Rust through the JetBrains Academy **Learn Rust** course, practicin
 
 ### Progress
 
-- [x] Functions — declarations, parameters, return values, and refactoring
-- [x] Conditions — `if` expressions, `else if`, and logical operators
-- [ ] Remaining topics — continuing through the course
+- [x] Introduction — course setup and navigation (7/7 tasks)
+- [x] Common Programming Concepts — variables, data types, functions, conditions, loops, tuples, and arrays (49/49 tasks)
+- [x] Understanding Ownership — ownership, borrowing, references, and slices (37/37 tasks)
+- [x] Structs, Methods, Enums, and Pattern Matching — structs, methods, enums, `Option`, `match`, and `if let` (34/34 tasks)
+- [ ] Modules — introduction complete; continuing with paths, `use`, `pub`, and project organization (1/19 tasks)
+- [ ] Later topics — collections, error handling, generics, standard library types, concurrency, testing, and macros
 
-Progress is recorded in the [commit history](../../commits/main). This section is a snapshot, not an automatically updated checklist.
+Course status: **128/331 tasks completed**. Progress is recorded in the [commit history](../../commits/main); this section is a manually updated snapshot.
 
 ---
 
